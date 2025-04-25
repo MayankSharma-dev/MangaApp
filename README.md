@@ -56,6 +56,18 @@ Single Activity architecture powered by Jetpack Navigation Component.
 
 ---
 
+### Screenshots
+Feature | Images
+------------ | -------------
+ **Auth Screen**  
+ <img src="https://github.com/user-attachments/assets/dfdb148f-593e-41c6-a1d3-dd9ac1db79d5" width="450" height="350">
+ **Home Screen**
+<img src="https://github.com/user-attachments/assets/43bc7c85-c274-482f-ab91-bccb59665157" width="450" height="350">
+ **Detail Screen**
+<img src="https://github.com/user-attachments/assets/ff7d995b-0bd5-4e00-88a9-c4da9d960231" width="450" height="350">
+**Face Scan AI Screen**
+<img src="https://github.com/user-attachments/assets/593e5a09-8465-4f42-89c2-2a7ae89a9216" width="450" height="350">
+
 ## 🛠 Tech Stack
 
 ### 🔧 Libraries & Tools
