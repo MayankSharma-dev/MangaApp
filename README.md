@@ -9,6 +9,8 @@ A modern Android application showcasing Clean Architecture + MVVM using Jetpack 
  <video width="320" height="240" src="https://github.com/user-attachments/assets/8714f10a-f7f5-4100-bb0a-77369d630de3" type="video/mp4"> Your browser does not support the video tag. </video>
 //Here is the video demo
 
+Note: The uploaded APK is a debug build, which may result in reduced performance and minor glitches. The release version will be smoother, as further optimizations for Jetpack Compose are applied during release builds.
+
 ## Features
 
 ### 1. User Authentication 
