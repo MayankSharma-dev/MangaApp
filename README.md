@@ -4,6 +4,11 @@ A modern Android application showcasing Clean Architecture + MVVM using Jetpack 
 
 ---
 
+<h2 align="start" id="Demo">Demo
+<br>
+ <video width="320" height="240" src="https://github.com/user-attachments/assets/8714f10a-f7f5-4100-bb0a-77369d630de3" type="video/mp4"> Your browser does not support the video tag. </video>
+//Here is the video demo
+
 ## Features
 
 ### 1. User Authentication 
