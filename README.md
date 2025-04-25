@@ -10,7 +10,8 @@ A modern Android application showcasing Clean Architecture + MVVM using Jetpack 
 //Here is the video demo
 
 <br>
-<h4 Note: The uploaded APK is a debug build, which may result in reduced performance and minor glitches. The release version will be smoother, as further optimizations for Jetpack Compose are applied during release builds.>
+
+### Note: The uploaded APK is a debug build, which may result in reduced performance and minor glitches. The release version will be smoother, as further optimizations for Jetpack Compose are applied during release builds.
 
 ## Features
 
